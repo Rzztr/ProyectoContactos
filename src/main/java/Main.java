@@ -8,7 +8,7 @@ public class Main {
         
         
         contactos.add(new Contacto("Carlos Olmos", "", "Olimpo"));
-        contactos.add(new Contacto("Isaac Saucedo", "449 465 0069", "Olimpo"));
+        contactos.add(new Contacto("Isaac Saucedo", "449 xx 0069", "Olimpo"));
         contactos.add(new Contacto("Ricardo Lopez", "449 540 3154", "Olimpo"));
         contactos.add(new Contacto("Jose Balderas", " 449 xx xxxx", "CEH"));
         
